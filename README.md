@@ -1,4 +1,4 @@
-Overview: This project involves an in-depth analysis of hotel booking cancellations using Excel. The dataset contains essential columns related to hotel types, cancellation status, arrival dates, and more.
+Overview:Analysis of hotel booking cancellations using Excel. The dataset contains essential columns related to hotel types, cancellation status, arrival dates, and more.
 
 Tasks:
 Understanding the business problem and implications of cancellations.
